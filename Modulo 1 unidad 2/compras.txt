@@ -1,3 +1,6 @@
 leche
 agua
 jugo
+
+pan 
+manzanas
